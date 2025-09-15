@@ -39,9 +39,9 @@ A passionate *Full-Stack Developer* from India 🚀 | Skilled in *MERN stack & D
 
 ## 🌱 Currently Exploring
 
-- 📝 Writing clean & scalable code with best practices
-- ☁ Diving deeper into *Cloud Technologies & System Design*
-- 🤝 Contributing to *open-source projects* to learn, share, and collaborate
+- 📝 Writing clean & scalable code with best practices  
+- ☁ Diving deeper into *Cloud Technologies & System Design*  
+- 🤝 Contributing to *open-source projects* to learn, share, and collaborate  
 
 ---
 
@@ -69,8 +69,8 @@ A passionate *Full-Stack Developer* from India 🚀 | Skilled in *MERN stack & D
 ## 📈 Contribution Graph
 
 <div align="center">
-  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omgaikwad&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=omgaikwad&bg_color=1a1b27&color=9e4c98&line=9e4c98&point=f8d847&area=true&hide_border=true" alt="Om Gaikwad's Contribution Graph" />
 
 </div>
 
@@ -80,8 +80,8 @@ A passionate *Full-Stack Developer* from India 🚀 | Skilled in *MERN stack & D
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-gaikwad.om400@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaikwad.om400@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Om%20Gaikwad-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omgaikwad)
+[![Email](https://img.shields.io/badge/Email-gaikwad.om400@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaikwad.om400@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Om%20Gaikwad-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omgaikwad)  
 [![GitHub](https://img.shields.io/badge/GitHub-omgaikwad-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omgaikwad)
 
 </div>
