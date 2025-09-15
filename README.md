@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-A passionate *Full-Stack Developer* from India 🚀 | Skilled in *MERN stack & DSA* | Always eager to explore cutting-edge technologies and contribute to impactful projects.
+A passionate *Full-Stack Developer*  🚀 | Skilled in *MERN stack* | Always eager to explore cutting-edge technologies and contribute to impactful projects.
 
 ---
 
