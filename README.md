@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3CA9F4&center=true&vCenter=true&random=false&width=500&lines=Hi+👋,+I'm+Om+Gaikwad;Full-Stack+Developer+💻;Innovator+✨+Problem+Solver" alt="Typing SVG" />
+  </a>
+</p>
+
 <div align="center">
   
 # Hi 👋, I'm Om Gaikwad
@@ -39,9 +45,9 @@ A passionate **Full-Stack Developer** from India 🚀 | Skilled in **MERN stack 
 
 ## 🌱 Currently Exploring
 
-- 📝 Writing clean & scalable code with best practices
-- ☁️ Diving deeper into **Cloud Technologies & System Design**
-- 🤝 Contributing to **open-source projects** to learn, share, and collaborate
+- 📝 Writing clean & scalable code with best practices  
+- ☁️ Diving deeper into **Cloud Technologies & System Design**  
+- 🤝 Contributing to **open-source projects** to learn, share, and collaborate  
 
 ---
 
@@ -80,9 +86,9 @@ A passionate **Full-Stack Developer** from India 🚀 | Skilled in **MERN stack 
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-gaikwad.om400@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaikwad.om400@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Om%20Gaikwad-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omgaikwad)
-[![GitHub](https://img.shields.io/badge/GitHub-omgaikwad-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omgaikwad)
+[![Email](https://img.shields.io/badge/Email-gaikwad.om400@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaikwad.om400@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Om%20Gaikwad-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omgaikwad)  
+[![GitHub](https://img.shields.io/badge/GitHub-omgaikwad-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omgaikwad)  
 
 </div>
 
