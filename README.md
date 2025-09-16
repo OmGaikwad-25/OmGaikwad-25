@@ -80,11 +80,21 @@ A passionate *Full-Stack Developer*  🚀 | Skilled in *MERN stack* | Always eag
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-gaikwad.om400@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaikwad.om400@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Om%20Gaikwad-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omgaikwad)
-[![GitHub](https://img.shields.io/badge/GitHub-omgaikwad-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omgaikwad)
+  <!-- Contact Section -->
+  <a href="mailto:omdnyaneshwargaikwad@gmail.com">
+    <img src="https://img.shields.io/badge/Email-omdnyaneshwargaikwad@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+
+  <a href="https://www.linkedin.com/in/om-gaikwad-448228260/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Om%20Gaikwad-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <a href="https://github.com/OmGaikwad-25" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-OmGaikwad--25-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 
 </div>
+
 
 ---
 
